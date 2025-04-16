@@ -26,7 +26,7 @@ This project focuses on the development of a cost-effective and portable assisti
    - Trigger a buzzer/LED/vibration motor for feedback.
    - Be extended to provide audio feedback using external TTS modules or via PC speakers.
 
-![Architecture](documentation/architecture.png)
+![Architecture](images/architecture.png)
 
 
 ## Implementation Details
